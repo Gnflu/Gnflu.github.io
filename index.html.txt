@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-158638933-2"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+
+		  gtag('config', 'UA-158638933-2');
+		</script>
+        <link rel="stylesheet" href="stylesheet.css">
+        <meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+		<meta name="HandheldFriendly" content="true" />
+		<title>Nuha Diab</title>
+		<meta name="description" content="Nuha Diab">
+		<meta name="author" content="Nuha Diab">
+		<meta name="keywords" content="Nuha,Diab">
+		<meta name="nosnippet">
+		<link rel="icon" type="image/png" href="favicon.png" sizes="32x32">
+		<link href="https://fonts.googleapis.com/css?family=Concert+One:400,600,800" rel="stylesheet">
+
+    </head>
+
+    <body>
+        <h1> Nuha Diab </h1>
+        <div class="profile-section">
+            <img src="nuha-pic.pdf" alt="Nuha Diab" class="profile-image">
+            <p>
+                I am a PhD student at Tel Aviv University under the supervision of <a href="https://dimabatenkov.info/">Prof. Dmitry Batenkov</a>. My research interests include Super-Resolution, Matrix Theory and Harmonical Analysis.
+                <br>
+                <br> <strong>2022 - current:</strong> PhD student in Applied Mathematics at Tel Aviv University
+                <br> <strong>2019 - 2022:</strong> M.Sc. in Applied Mathematics at Tel Aviv University, Summa Cum Laude
+		<br> <strong>2018 - 2019:</strong> Completion year for M.Sc. in Applied Mathematics at Tel Aviv University
+                <br> <strong>2014 - 2017:</strong> B.Sc. in Computer Science at The University of Haifa, "Etgar" program (in tandem with high school)
+                <br>
+                <br> <strong>Email:</strong> <code>nuhadiab@tauex.tau.ac.il</code>
+		<br> <a href="https://scholar.google.com/citations?user=w37hNUMAAAAJ&hl=iw&oi=ao">Google Scholar Profile</a>
+            </p>
+        </div>
+        <h1> Publications </h1> 
+
+        <div id="publication">
+            <a href="https://arxiv.org/abs/2502.06673">Selecting Optimal Sampling Rate for Stable Super-Resolution</a>
+            <div id="metadata"> Nuha Diab </div>
+            <div id="metadata"> Accepted for SampTa 2025.</div>
+        </div>
+
+        <div id="publication">
+            <a href="https://doi.org/10.1016/j.acha.2024.101687">On The Accuracy of Prony’s Method for Recovery of Exponential Sums with Closely Spaced Exponents</a>
+            <div id="metadata"> R. Katz, N. Diab and D. Batenkov</div>
+            <div id="metadata"> Applied and Computational Harmonic Analysis ,Volume 73, 2024.</div>
+        </div>
+
+	<div id="publication">
+            <a href="https://doi.org/10.1109/LSP.2023.3324553">Decimated Prony’s Method for Stable Super-resolution</a>
+            <div id="metadata"> R. Katz, N. Diab and D. Batenkov</div>
+            <div id="metadata"> IEEE signal processing letters, 2023, Vol.30, p.1467-1471.</div>
+        </div>
+
+	<div id="publication">
+            <a href="https://doi.org/10.1016/j.acha.2023.03.002">Super-resolution of generalized spikes and spectra of confluent Vandermonde matrices</a>
+            <div id="metadata"> D. Batenkov and N. Diab</div>
+            <div id="metadata"> Applied and Computational Harmonic Analysis ,Volume 65, Pages 181-208, 2023.</div>
+        </div>
+
+	<div id="publication">
+            <a href="http://proceedings.mlr.press/v76/bshouty17a.html ">Non-Adaptive Randomized Algorithm for Group Testing</a>
+            <div id="metadata"> Nader H. Bshouty, Nuha Diab, Shada R. Kawar and Robert J. Shahla.</div>
+            <div id="metadata"> Proceedings of the 28th International Conference on Algorithmic Learning Theory, PMLR 76:109-128, 2017.</div>
+        </div>
+
+
+        <h1> Preprints </h1>
+            <div id="publication">
+            <a href="https://doi.org/10.48550/arXiv.2407.10600">Spectral Properties of Infinitely Smooth Kernel Matrices in the Single Cluster Limit, with Applications to Multivariate Super-Resolution</a>
+            <div id="metadata"> N. Diab and D. Batenkov. Submitted. 2024</div>
+        </div>
+
+	<div id="publication">
+            <a href="https://dblp.org/pid/176/5548.html">Enumerating all the Irreducible Polynomials over Finite Field</a>
+            <div id="metadata"> Nader H. Bshouty, Nuha Diab, Shada R. Kawar, Robert J. Shahla. 2016.</div>
+        </div>
+
+
+        <h1> Awards and Scholarships </h1>
+        <div id="publication">
+            <ul>
+                <li>Prof. Rahamimoff Travel Grant for Young Scientists (BSF), February 2025.</li>
+                <li>A Fellow of the Excellence Program for Arab Women Students (tariquki 2023)
+,March 2023.</li>
+                <li>A Fellow of the Ariane de Rothschild Women Doctoral Program, October 2022.</li>
+		<li>Award Certificate for Outstanding Math Students, granted by Math department at Tel-Aviv Uni, June 2022.</li>
+		<li>The Council for Higher Education Scholarship for Arab Students in Graduate Studies, January 2020</li>
+                <li>Award Certificate for Outstanding Students, granted by “The Christian Home” and Haifa Municipality, August 2016.
+</li>
+               <li>Integration of Academic Studies Scholarship, granted by Ministry of Education
+ October 2015, January 2017.
+</li>
+ 
+            </ul>
+        </div>
+
+<h1> Teaching </h1>
+        <div id="publication">
+            <ul>
+                <li>Calculus 1B for Electrical Engineers (Winter 2024, 2023, 2022)</li>
+                <li>Mathematics A, Mathematics B for Life Sciences (Winter 2020)</li>
+		<li>Partial Differential Equations for Engineers (Spring 2020)</li>
+            </ul>
+        </div>
+
+<h1> Recent Talks </h1>
+        <div id="talk">
+            <ul>
+                <li>IMU Student Talks Day at Weizmann Institute. September 2024, Rehovot, Israel.</li>
+                <li>Women in Mathematics Conference. May 2024, Tel-Aviv, Israel.</li>
+		<li>SIAM Conference on Applied Linear Algebra. May 2024, Paris, France.</li>
+		<li>Presentation for SiMul Group at Lorraine University. September 2023, Nancy, France.</li>
+		<li>EXPOWER Project Workshop. September 2023, Mariaspring, Germany.</li>
+		<li>Applied Inverse Problems Conference. September 2023, Gottengin, Germany.</li>
+		<li>SIAM Conference on Computational Science and Engineering. March 2023, Amsterdam, Netherlands.</li>
+		<li>IM-Workshop. February 2023, Bernried, Germany.</li>
+		<li>Curves and Surfaces (accepted with travel support), June 2022, Arcachon, France.</li>
+
+            </ul>
+        </div>
+
+        <div class="last-updated">
+            Last updated: 12 Apr 2025
+        </div>
+    </body>
+
+</html>
